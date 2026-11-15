@@ -73,3 +73,7 @@ Placeholders for P7: img-01 finca, img-02 tostador, img-03 taza servida, img-04.
 2026-11-15 P6: QA ronda 1–4. Arreglado: la página saltaba a «Crea» al cargar (scrollIntoView), cristal demasiado
   opaco, desbordamiento horizontal del panel en móvil, hilo de caramelo enterrado en la espuma, la taza flotaba
   sobre el panel al seguir bajando. Flujo de pedido probado en escritorio y móvil: 0 errores de consola.
+2026-11-15 P8: el usuario ve la taza «de juguete». Rehecha: vaso de doble pared real (cuenco interior flotando,
+  paredes finas, asa de cristal macizo), cristal con transmisión y refracción, estudio de luz propio (softbox
+  cálido + tira vertical → reflejos de producto), un solo volumen de líquido con degradados entre capas,
+  crema atigrada, espuma con microburbuja, vapor, mesa de piedra oscura con sombra y cáustica ámbar.
